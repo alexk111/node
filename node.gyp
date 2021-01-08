@@ -31,6 +31,7 @@
       'lib/internal/bootstrap/environment.js',
       'lib/internal/bootstrap/loaders.js',
       'lib/internal/bootstrap/node.js',
+      'lib/internal/bootstrap/pkg.js',
       'lib/internal/bootstrap/pre_execution.js',
       'lib/internal/bootstrap/switches/does_own_process_state.js',
       'lib/internal/bootstrap/switches/does_not_own_process_state.js',
